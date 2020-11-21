@@ -8,9 +8,11 @@ Disclaimer: I dont not own any of the conent linked/shown here
 # Now let's begin by drawing the situation: you want to record audio which is spoken right now and proccess it directly (live)
 
 ## What are the things we need to do?
-  1️⃣ first we need a way to use the mic
-  2️⃣ then whe need some kind of Memory which gives us the speach in little brackets we can process (cause if we want to process the data live we cant wait till the whole file is written)
-  3️⃣ and lastly we need some Method which is called when theres a new bracket available
+1️⃣ first we need a way to use the mic
+
+2️⃣ then whe need some kind of Memory which gives us the speach in little brackets we can process (cause if we want to process the data live we cant wait till the whole file is written)
+
+3️⃣ and lastly we need some Method which is called when theres a new bracket available
   
 ## How to solve Todo 1
 
