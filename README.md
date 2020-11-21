@@ -10,7 +10,7 @@ Disclaimer: I dont not own any of the conent linked/shown here
 ## What are the things we need to do?
 1️⃣ first we need a way to use the mic
 
-2️⃣ then whe need some kind of Memory which gives us the speach in little brackets we can process (cause if we want to process the data live we cant wait till the whole file is written)
+2️⃣ then whe need some kind of Memory which gives us the speech in little brackets we can process (cause if we want to process the data live we cant wait till the whole file is written)
 
 3️⃣ and lastly we need some Method which is called when theres a new bracket available
   
