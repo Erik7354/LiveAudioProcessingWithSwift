@@ -5,7 +5,7 @@ This Repo is just for collecting resources and giving a basic explanation on how
 Disclaimer: I dont not own any of the conent linked/shown here
 
 
-# Now let's begin by drawing the situation
+## Now let's begin by drawing the situation
 You want to record audio which is spoken right now and proccess it directly (live), right?
 
 ## What are the things we need to do?
