@@ -16,7 +16,7 @@ Disclaimer: I dont not own any of the conent linked/shown here
   
 ## How to solve Todo 1
 
-### ------------> The Solution lies in Sessions 502 from 2014s WWDC <------------
+### ------------> The Solution lies in Session 502 from 2014s WWDC <------------
 
 There Apple introduced the AVAudioEngine and AVAudioNodes. In this Repo I will just give an abstract of what is told in the presentation you can find here: https://www.youtube.com/watch?v=FlMaxen2eyw
 
