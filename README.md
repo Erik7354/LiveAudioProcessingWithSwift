@@ -1,4 +1,4 @@
-# An abstract on how to receive and process live audio with Swift
+# An abstract on how to receive and process live audio with Swift🚀
 
 This Repo is just for collecting resources and giving a basic explanation on how to do what the headline intends. In the end Apple made this pretty simple but thus I wasnt very lucky with my search and quiet new to iOS App Development it took me a proper amount of nerves and time to figure everything out.
 
